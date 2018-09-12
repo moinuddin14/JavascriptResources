@@ -9,7 +9,11 @@
 4. <h4 id="articles">Javascript Node Modules</h4>
 5. <h4 id="tools">Javascript Events</h4>
 6. <h4 id="tools">Javascript Projects</h4>
-6. <h4 id="tools">Javascript Misc</h4>
+7. <h4 id="tools">Visual Studio Code</h4>
+
+    * VSC Themes
+    * VSC Awesome Extensions
+8. <h4 id="tools">Javascript Misc</h4>
 
 **_Javascript Utility Tools_**
 
@@ -64,15 +68,29 @@
 
 **_Javascript Projects_**
 
-| Project  | Softwares | Status | 
+| Project  | Link | Status | 
 | ------------- | ------------- |------------- |
-| ------------- | ------------- |------------- |
-| ------------- | ------------- |------------- |
-| ------------- | ------------- |------------- |
-| ------------- | ------------- |------------- |
-| ------------- | ------------- |------------- |
-| ------------- | ------------- |------------- |
-| ------------- | ------------- |------------- |
+| Contacts List App | https://github.com/moinuddin14/contact-list-app |Complete |
+| Issue Tracker App | https://github.com/moinuddin14/Issue-Tracker_Javascript | Complete |
+| Javascript Promises | https://github.com/moinuddin14/Javascript-Promises | Complete |
+| React Material App | https://github.com/moinuddin14/react-material-app | In Progress |
+| JQuery Basics | https://github.com/moinuddin14/jquery-basics | Complete |
+| Bookworm React | https://github.com/moinuddin14/bookworm-react | Complete |
+| React Weather App | https://github.com/moinuddin14/react-weather-app | Complete |
+| ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- |
+
+**_VSC Themes_**
+
+
+
+**_VSC Awesome Extensions_**
+
+
 
 **_Javascript Misc_**
 
