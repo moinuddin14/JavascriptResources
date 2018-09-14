@@ -90,7 +90,7 @@
 
 **_VSC Awesome Extensions_**
 
-
+> [Auto Comments Block](https://marketplace.visualstudio.com/items?itemName=kevinkyang.auto-comment-blocks)
 
 **_Javascript Misc_**
 
