@@ -117,6 +117,7 @@
 **_Javascript Misc_**
 
 > Julia Programming Language: Trying to learn through the two hour video on Youtube
+> [ForwardJS](https://forwardcourses.com/lectures) Lectures
 
 Short Cuts
 
