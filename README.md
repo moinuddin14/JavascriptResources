@@ -41,7 +41,7 @@
 | [Goodbye Redux](https://hackernoon.com/goodbye-redux-26e6a27b3a0b) | Not Read |
 | [Modern JavaScript date utility library](https://date-fns.org/) | Not Read |
 | [React 16.5.0 Changes](https://github.com/facebook/react/blob/master/CHANGELOG.md#1650-september-5-2018) | In Progress |
-| ------------- | ------------- |
+| [The 7 Layers of the OSI Model](https://www.webopedia.com/quick_ref/OSI_Layers.asp) | Not Read |
 | ------------- | ------------- |
 | ------------- | ------------- |
 | ------------- | ------------- |
