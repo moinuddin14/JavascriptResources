@@ -77,7 +77,7 @@
 | JQuery Basics | https://github.com/moinuddin14/jquery-basics | Complete |
 | Bookworm React | https://github.com/moinuddin14/bookworm-react | Complete |
 | React Weather App | https://github.com/moinuddin14/react-weather-app | Complete |
-| ------------- | ------------- | ------------- |
+| Shopping List with MERN Stack | https://github.com/moinuddin14/shopping-list-mern-stack | In Progress |
 | ------------- | ------------- | ------------- |
 | ------------- | ------------- | ------------- |
 | ------------- | ------------- | ------------- |
