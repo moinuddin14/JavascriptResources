@@ -9,11 +9,9 @@
 4. <h4 id="articles">Javascript Node Modules</h4>
 5. <h4 id="tools">Javascript Events</h4>
 6. <h4 id="tools">Javascript Projects</h4>
-7. <h4 id="tools">Visual Studio Code</h4>
-
-    * VSC Themes
-    * VSC Awesome Extensions
-8. <h4 id="tools">Javascript Misc</h4>
+7. <h4 id="tools">VSC Themes & Extensions</h4>
+8. <h4 id="tools">NodeJS</h4>
+9. <h4 id="tools">Javascript Misc</h4>
 
 **_Javascript Utility Tools_**
 
@@ -84,9 +82,33 @@
 | ------------- | ------------- | ------------- |
 | ------------- | ------------- | ------------- |
 
-**_VSC Themes_**
+**_VSC Themes & Extensions_**
 
+    1.  Auto Comment Blocks
+    
+    2.  Htmltagwrap
+    
+    3.  IntelliSense for CSS class names in HTML
+    
+    4.  Javascript console utils
+    
+    5.  Live Server
 
+    6.  Markdown Preview Enhanced
+
+    7.  Material Icon Theme
+
+    8.  Material Theme
+
+    9.  Vscode-icons
+
+    10.  
+
+**_NodeJS Information_**
+
+| Resource  | Type | Status | 
+| ------------- | ------------- | ------------- |
+| [You Don't Know Node - ForwardJS San Francisco](https://www.youtube.com/watch?v=oPo4EQmkjvY) | Video | In Progress |
 
 **_VSC Awesome Extensions_**
 
